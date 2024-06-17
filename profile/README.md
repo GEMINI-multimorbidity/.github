@@ -4,7 +4,7 @@ We are studying links between **72 long-term conditions** that could help improv
  - two large population-representative primary care datasets: **_CPRD_** and **_SIDIAP_**,
  - up to three sources of genetics data: **_UK Biobank_**, **_FinnGen_**, and multiple consortium meta-analyses (where available).
 
-⭐ Our seminal paper is available! If you use these resources please cite the preprint and resource release version: 
+⭐ Our preprint is available! If you use these resources please cite the below and include the resource release version: 
 
 > Murrin _et al._ (2024) **A systematic analysis of the contribution of genetics to multimorbidity and comparisons with primary care data**. _medRxiv_. [https://doi.org/10.1101/2024.05.13.24307009](https://doi.org/10.1101/2024.05.13.24307009)
 
