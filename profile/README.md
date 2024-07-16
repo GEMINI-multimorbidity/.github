@@ -10,4 +10,4 @@ We are studying links between **72 long-term conditions** that could help improv
 
 #### Resources available:
  - 📚 Harmonised [diagnostic codes](https://github.com/GEMINI-multimorbidity/GEMINI-LTC-code-list-Public) for each long-term condition ascertained in GEMINI.
- - 📦 R package {[partialLDSC](https://github.com/GEMINI-multimorbidity/partialLDSC)} to estimate partial genetic correlations from GWAS results (preprint coming soon!)
+ - 📦 R package {[partialLDSC](https://github.com/GEMINI-multimorbidity/partialLDSC)} to estimate partial genetic correlations from GWAS results.
